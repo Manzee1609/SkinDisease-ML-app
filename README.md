@@ -21,9 +21,5 @@ This is a project for a hackathon. This application detects skin diseases from i
 * Read about diseases
 
 # Demo Video
-  <video controls="true" allowfullscreen="true" poster="https://github.com/deeppatel23/DSCWOW-CANTEEN_MANAGEMENT/blob/main/Screenshot%202020-12-25%20at%2012.20.53%20PM.png">
-    <source src="https://github.com/Manzee1609/SkinDisease-ML-app/blob/main/images/My%20Movie%205.mp4" type="video/mp4">
-  </video>
-</figure>
 
-[![Watch the video](https://github.com/deeppatel23/DSCWOW-CANTEEN_MANAGEMENT/blob/main/Screenshot%202020-12-25%20at%2012.20.53%20PM.png)](https://github.com/Manzee1609/SkinDisease-ML-app/blob/main/images/My%20Movie%205.mp4)  
+[![Watch the video]()](https://youtu.be/rPZv_81B4R4)  
